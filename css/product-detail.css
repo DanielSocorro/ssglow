@@ -1131,9 +1131,9 @@ header .button-tshirts {
    border: none;
  }
 .linedetail {
-    width: 39vw;
-
-    margin-top: -17px;
+    width: 52vw;
+    margin-top: 6px;
+    margin-left: 42%;
  }
  .description-detail p {
    display: flex;
@@ -2040,7 +2040,6 @@ header .button-tshirts {
 /**********************************/
 
 .action {
-    display: inline-flex;
     align-items: center;
 }
 .btn1 {
@@ -2056,8 +2055,7 @@ header .button-tshirts {
     font-size: 1.2rem;
     align-items: center;
     justify-content: center;
-    margin-top: 28px;
-    margin-left: 0;
+    margin-left: 130px;
 
 }
 .btn2 {
@@ -2068,11 +2066,11 @@ header .button-tshirts {
     width: 21vw;
     height: 37px;
     font-size: 1.1rem;
-    margin-top: 27px;
+    margin-top: -19px;
     align-items: center;
     justify-content: space-evenly;
     border: none;
-    margin-left: 0;
+    margin-left: 169px;
 }
 
 .call-to-action {
