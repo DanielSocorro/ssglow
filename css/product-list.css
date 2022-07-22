@@ -835,7 +835,8 @@ header .button-tshirts {
 }
 
 .product-item .product-image .product-action a:last-child {
-    margin-right: 0;
+    margin-right: -118px;
+    margin-top: -217px;
 }
 
 .product-item .product-image .product-action a:hover {
