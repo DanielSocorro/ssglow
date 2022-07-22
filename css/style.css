@@ -670,8 +670,7 @@ align-content: flex-end;
     background: #f4acb7;
     transition: all .3s;
     border-radius: 12px 12px 0 0;
- 
-   
+    padding: 10px;
 }
 
 .product-item:hover .product-title {
@@ -778,8 +777,8 @@ align-content: flex-end;
 }
 
 .product-item .product-image .product-action a:last-child {
-    margin-right: -8rem;
-    margin-top: -14rem;
+    margin-right: -1rem;
+
 }
 
 .product-item .product-image .product-action a:hover {

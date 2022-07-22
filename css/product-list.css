@@ -726,6 +726,7 @@ header .button-tshirts {
     background: #f4acb7;
     transition: all .3s;
     border-radius: 10px 10px 0 0;
+    padding: 10px;
    
 }
 
@@ -835,8 +836,8 @@ header .button-tshirts {
 }
 
 .product-item .product-image .product-action a:last-child {
-    margin-right: -118px;
-    margin-top: -217px;
+    margin-right: 0;
+    margin-top: -26px;
 }
 
 .product-item .product-image .product-action a:hover {
