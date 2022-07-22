@@ -83,7 +83,7 @@ h2 {
     margin-left: 17px;
 }
 .custom-select {
-    width: 94%;
+    width: 93%;
     height: 35px;
     color: #999999;
     margin-bottom: 15px;
@@ -314,14 +314,22 @@ li {
 }
 .resume-order {
     display: flex;
-    width: 687px;
-    height: 37vh;
+    width: 50%;
+    height: 115vh;
     margin-left: auto;
     margin-right: auto;
     border-radius: 34px;
     background-color: #ffe1f1;
 }
-
+@media (min-width: 820.98px) {
+    .resume-order {
+        width: 77%;
+        height: 77vh;
+    }
+}
+.order-1 {
+    
+}
 .order-1 img {
     width: 15vw;
     margin-left: 25px;
@@ -341,6 +349,8 @@ li {
     font-size: 24px;
     font-weight: bolder;
     color: #6d4f63;
+    display: flex;
+    justify-content: flex-end;
 }
 .order-1 .subtotal {
     display: flex;
@@ -1999,7 +2009,7 @@ margin-top: -17px;
 }
 .col-md-7 input {
  
-    width: 39.5vw;
+    width: 39.9vw;
 }
 
 /**********************************/
@@ -2133,6 +2143,11 @@ margin-top: -17px;
     
     .call-to-action h1 {
         margin-bottom: 20px;
+    }
+}
+@media (min-width: 1440.98px) {
+    .col-md-7 input {
+        width: 38.4vw;
     }
 }
 
