@@ -1,4 +1,4 @@
-# Project Description: WordPress E-commerce Development with Elementor
+# WordPress E-commerce Development with Elementor
 
 This project involved the development of a comprehensive e-commerce website for a small startup based in Chile. The main objective was to create a fully functional online store using WordPress as the content management system and Elementor as the page builder.
 
